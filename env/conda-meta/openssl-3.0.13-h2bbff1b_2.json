@@ -8,7 +8,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2",
+  "extracted_package_dir": "C:\\Users\\MIKE\\miniconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2",
   "files": [
     "Library/bin/c_rehash.pl",
     "Library/bin/libcrypto-3-x64.dll",
@@ -177,12 +177,12 @@
   "fn": "openssl-3.0.13-h2bbff1b_2.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2",
+    "source": "C:\\Users\\MIKE\\miniconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2",
     "type": 1
   },
   "md5": "ea7be6d467198c0acceb34b84e781717",
   "name": "openssl",
-  "package_tarball_full_path": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2.conda",
+  "package_tarball_full_path": "C:\\Users\\MIKE\\miniconda3\\pkgs\\openssl-3.0.13-h2bbff1b_2.conda",
   "paths_data": {
     "paths": [
       {

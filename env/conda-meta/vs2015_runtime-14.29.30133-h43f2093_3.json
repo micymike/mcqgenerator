@@ -4,7 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/win-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3",
+  "extracted_package_dir": "C:\\Users\\MIKE\\miniconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3",
   "files": [
     "Library/bin/api-ms-win-core-console-l1-1-0.dll",
     "Library/bin/api-ms-win-core-datetime-l1-1-0.dll",
@@ -113,12 +113,12 @@
   "fn": "vs2015_runtime-14.29.30133-h43f2093_3.conda",
   "license": "",
   "link": {
-    "source": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3",
+    "source": "C:\\Users\\MIKE\\miniconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3",
     "type": 1
   },
   "md5": "b5596ddb5240cdac00ac274ff85163c9",
   "name": "vs2015_runtime",
-  "package_tarball_full_path": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3.conda",
+  "package_tarball_full_path": "C:\\Users\\MIKE\\miniconda3\\pkgs\\vs2015_runtime-14.29.30133-h43f2093_3.conda",
   "paths_data": {
     "paths": [
       {

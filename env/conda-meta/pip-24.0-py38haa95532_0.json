@@ -8,7 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\pip-24.0-py38haa95532_0",
+  "extracted_package_dir": "C:\\Users\\MIKE\\miniconda3\\pkgs\\pip-24.0-py38haa95532_0",
   "files": [
     "Lib/site-packages/pip-24.0-py3.8.egg-info/PKG-INFO",
     "Lib/site-packages/pip-24.0-py3.8.egg-info/SOURCES.txt",
@@ -1036,12 +1036,12 @@
   "fn": "pip-24.0-py38haa95532_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\pip-24.0-py38haa95532_0",
+    "source": "C:\\Users\\MIKE\\miniconda3\\pkgs\\pip-24.0-py38haa95532_0",
     "type": 1
   },
   "md5": "5cfd4628800fcabf8a0489a02f111dcc",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\MIKE\\AppData\\Local\\anaconda3\\pkgs\\pip-24.0-py38haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\MIKE\\miniconda3\\pkgs\\pip-24.0-py38haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
