@@ -7,3 +7,6 @@ mcqgenrator.egg-info/requires.txt
 mcqgenrator.egg-info/top_level.txt
 src/__init__.py
 src/msqgenerator/__init__.py
+src/msqgenerator/logger.py
+src/msqgenerator/mcqgen.py
+src/msqgenerator/utils.py
