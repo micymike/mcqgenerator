@@ -8,14 +8,17 @@ def read_file(file):
         try:
             pdf_reader = PyPDF2.PdfFileReader(file)
             text = ""
-            for page_num in range(pdf_reader.getNumPages()):
+            for page_num in range(pdf_reader.numPages):
                 page = pdf_reader.getPage(page_num)
                 text += page.extractText()
             return text
         except Exception as e:
             raise Exception("Error reading the PDF file: " + str(e))
     elif file.name.endswith(".txt"):
-        return file.read().decode("utf-8")
+        try:
+            return file.read().decode("utf-8")
+        except Exception as e:
+            raise Exception("Error reading the text file: " + str(e))
     else:
         raise Exception("Unsupported file format. Only PDF and text files are supported.")
 
@@ -37,3 +40,4 @@ def get_table_data(quiz_str):
     except Exception as e:
         traceback.print_exception(type(e), e, e.__traceback__)
         return False
+    

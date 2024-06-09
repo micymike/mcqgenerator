@@ -5,6 +5,7 @@ import pandas as pd
 from dotenv import load_dotenv
 from src.msqgenerator.utils import read_file, get_table_data
 from src.msqgenerator.logger import logging
+#from experiment import generate_evaluate_chain, get_openai_callback
 import streamlit as st
 
 # Load environment variables
@@ -52,7 +53,7 @@ with st.form("user_inputs"):
                     )
 
             except Exception as e:
-                traceback.print_exception(type(e), e, e.__traceback__)
+                traceback.print_exception(type(e), e, e._traceback_)
                 st.error("An error occurred")
 
             else:
